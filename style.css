@@ -1,0 +1,12 @@
+#login_body{
+ background-image: url("nice_theme.jpg");
+ margin-top: 10%;
+}
+.login
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin-bottom: 30px;
+	}
