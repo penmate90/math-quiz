@@ -1,0 +1,26 @@
+body
+{
+	background-image: url(theme_correct.png);
+}
+
+
+
+.score_count{
+	display: inline-block;
+	margin-left: 20px;
+	
+}
+
+#question
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#player1_score, #player2_score
+{font-size: large;
+
+}
