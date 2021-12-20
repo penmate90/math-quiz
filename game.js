@@ -18,7 +18,7 @@ console.log("answer="+answer);
 num_question= "<h4>"+number1+" X "+number2+"</h4>";
 console.log(num_question);
 input_box="<br> Answer=<input type='text' placeholder='Input Answer Here' id='input_answer'>"
-button_check="<br><br> <button id='button_check'class='btn btn-succses' onclick='check()'>Check</button>"
+button_check="<br><br> <button id='button_check'class='btn btn-success' onclick='check()'>Check</button>"
 answer_div= num_question + input_box + button_check;
 
 document.getElementById("question").innerHTML=answer_div;
